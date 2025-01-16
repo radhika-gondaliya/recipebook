@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radhika-gondaliya/recipebook/static/css/main.276e32ee.css",
+    "main.js": "/radhika-gondaliya/recipebook/static/js/main.00f0d9e4.js",
+    "static/js/488.6b47f00b.chunk.js": "/radhika-gondaliya/recipebook/static/js/488.6b47f00b.chunk.js",
+    "index.html": "/radhika-gondaliya/recipebook/index.html",
+    "main.276e32ee.css.map": "/radhika-gondaliya/recipebook/static/css/main.276e32ee.css.map",
+    "main.00f0d9e4.js.map": "/radhika-gondaliya/recipebook/static/js/main.00f0d9e4.js.map",
+    "488.6b47f00b.chunk.js.map": "/radhika-gondaliya/recipebook/static/js/488.6b47f00b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.276e32ee.css",
+    "static/js/main.00f0d9e4.js"
+  ]
+}
