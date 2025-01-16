@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/radhika-gondaliya/recipebook.git/static/css/main.276e32ee.css",
-    "main.js": "/radhika-gondaliya/recipebook.git/static/js/main.2bf106b0.js",
-    "static/js/488.6b47f00b.chunk.js": "/radhika-gondaliya/recipebook.git/static/js/488.6b47f00b.chunk.js",
-    "index.html": "/radhika-gondaliya/recipebook.git/index.html",
-    "main.276e32ee.css.map": "/radhika-gondaliya/recipebook.git/static/css/main.276e32ee.css.map",
-    "main.2bf106b0.js.map": "/radhika-gondaliya/recipebook.git/static/js/main.2bf106b0.js.map",
-    "488.6b47f00b.chunk.js.map": "/radhika-gondaliya/recipebook.git/static/js/488.6b47f00b.chunk.js.map"
+    "main.css": "/recipebook/static/css/main.276e32ee.css",
+    "main.js": "/recipebook/static/js/main.67c5b95a.js",
+    "static/js/488.6b47f00b.chunk.js": "/recipebook/static/js/488.6b47f00b.chunk.js",
+    "index.html": "/recipebook/index.html",
+    "main.276e32ee.css.map": "/recipebook/static/css/main.276e32ee.css.map",
+    "main.67c5b95a.js.map": "/recipebook/static/js/main.67c5b95a.js.map",
+    "488.6b47f00b.chunk.js.map": "/recipebook/static/js/488.6b47f00b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.276e32ee.css",
-    "static/js/main.2bf106b0.js"
+    "static/js/main.67c5b95a.js"
   ]
 }
